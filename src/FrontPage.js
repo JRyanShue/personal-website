@@ -1,5 +1,6 @@
 
 import { FrontMenubar } from "./FrontMenubar";
+import { FrontLinks } from "./FrontLinks";
 import { FrontAbout } from "./FrontAbout";
 import { FrontTitle } from "./FrontTitle";
 
@@ -8,6 +9,7 @@ function FrontPage() {
         <div className="front-page">
             <FrontMenubar />
             <FrontTitle />
+            <FrontLinks />
             <FrontAbout />
         </div>
     )

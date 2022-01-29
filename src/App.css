@@ -37,26 +37,55 @@
   }
 }
 
-.front-menubar {
+body {
 
-  font-family: Tahoma, sans-serif;
-  font-size: 60px;
-
-}
-
-.front-title {
-
-  margin: 30px;
-  font-family: Tahoma, sans-serif;
-  font-size: 60px;
+  background-color: #07072b;
+  color: rgb(214, 214, 214);
 
 }
 
 .front-page {
 
-  margin: 30px;
   text-align: center;
+  align-items: center;
+
+}
+
+.front-menubar {
+
+  position: absolute;
+  display: flex;
+  left: 30px;
   font-family: Tahoma, sans-serif;
+  font-size: 20px;
+
+}
+
+.front-links {
+
+  position: relative;
+  border: 10px;
+
+}
+
+.front-title {
+
+  margin-top: 30px;
+  border: 10px;
+  font-family: Tahoma, sans-serif;
+  font-size: 60px;
+
+}
+
+.front-about {
+
+  text-align: left;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 600px;
+  font-family: Tahoma, sans-serif;
+  line-height: 2;
   font-size: 16px;
 
 }
