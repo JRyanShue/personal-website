@@ -13,7 +13,7 @@ function FrontAbout() {
         if (window.innerWidth > 600) {
             setTextWidth('600px');
         } else {
-            setTextWidth('100%');
+            setTextWidth('calc(100% - 60px)');
         }
     }
 
