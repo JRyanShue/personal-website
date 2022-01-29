@@ -9,9 +9,9 @@ function FrontAbout() {
                 Learning Collective on an AI research project applying Transformers to generating Mesh Implicit Neural Representations. 
                 <br/><br/>
                 I'm passionate about building software and hardware that matters. 
-                In the past, I've worked on a novel 3D printer for automated part production (called "The Zenger") 
-                and co-founded the creation of a stackable hydroponic system (called "The Canopy"). I've previously also had the opportunity to work at 
-                Ubiik Inc., first as an intern and later as an Industrial Engineer.  
+                In the past, I've worked on a novel 3D printer for automated part production (called "<a href="https://jryanshue.github.io/ZengerWriterV1/" style={{color:'rgb(214, 214, 214)'}}>The Zenger</a>") 
+                and co-founded the creation of a stackable hydroponic system (called "<a href="https://www.kickstarter.com/projects/thecanopy/the-canopy-smart-vertical-farm" style={{color:'rgb(214, 214, 214)'}}>The Canopy</a>"), which we successfully funded on Kickstarter. I've previously also had the opportunity to work at <></>
+                <a href="https://ubiik.com" style={{color:'rgb(214, 214, 214)'}}>Ubiik Inc.</a>, first as an intern and later as an Industrial Engineer.  
                 <br/><br/>
                 I'm pretty well-versed in the literatures of Supervised and Unsupervised Learning. I have experience with Python/Tensorflow, Solidworks CAD, full-stack web development, and FDM 3D printing. 
                 <br/><br/>
