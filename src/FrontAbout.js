@@ -1,12 +1,24 @@
 
+import {useEffect, useState} from 'react';
+
 function FrontAbout() {
+
+    useEffect(() => {handleResize()})
+
     console.log(window.innerWidth)
-    var textWidth;
-    if (window.innerWidth > 600) {
-        textWidth = '600px';
-    } else {
-        textWidth = '100%';
+    const [textWidth, setTextWidth] = useState('600px');
+
+    function handleResize() {
+        console.log('resize')
+        if (window.innerWidth > 600) {
+            setTextWidth('600px');
+        } else {
+            setTextWidth('100%');
+        }
     }
+
+    window.addEventListener('resize', handleResize)
+    
     return (
         <div>
             <div className="front-about" style={{width: textWidth}}>
