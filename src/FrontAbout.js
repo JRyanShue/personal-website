@@ -4,7 +4,7 @@ function FrontAbout() {
         <div>
             <div className="front-about">
                 <i class="fab fa-github"></i>
-                I'm Ryan Shue, a high school junior at Milton Academy. I'm a co-head of the Robotics Team and a News Editor for the school paper. 
+                I'm Ryan Shue, a high school junior at Milton Academy. I'm a co-head of our Robotics Team and a News Editor for our school paper. 
                 I'm currently working with some really talented collaborators via the Machine 
                 Learning Collective on an AI research project applying Transformers to generating Mesh Implicit Neural Representations. 
                 <br/><br/>
