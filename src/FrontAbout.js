@@ -1,8 +1,15 @@
 
 function FrontAbout() {
+    console.log(window.innerWidth)
+    var textWidth;
+    if (window.innerWidth > 600) {
+        textWidth = '600px';
+    } else {
+        textWidth = '100%';
+    }
     return (
         <div>
-            <div className="front-about">
+            <div className="front-about" style={{width: textWidth}}>
                 <i class="fab fa-github"></i>
                 I'm Ryan Shue, a high school junior at Milton Academy. I'm a co-head of our Robotics Team and a News Editor for our school paper. 
                 I'm currently working with some really talented collaborators via the Machine 
