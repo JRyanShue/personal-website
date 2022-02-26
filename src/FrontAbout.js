@@ -34,7 +34,7 @@ function FrontAbout() {
                 <br/><br/>
                 I'm pretty well-versed in the literatures of Supervised and Unsupervised Learning. I have experience with Python/Tensorflow, Solidworks CAD, full-stack web development, and FDM 3D printing. 
                 <br/><br/>
-                Feel free to reach out to me for anything!
+                Feel free to reach out to me for anything! My email is jryanshue [at] gmail [dot] com.
                 <br/>
             </div>
         </div>
