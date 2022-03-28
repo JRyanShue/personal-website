@@ -24,7 +24,7 @@ function FrontAbout() {
             <div className="front-about" style={{width: textWidth}}>
                 <i class="fab fa-github"></i>
                 I'm a high school junior at Milton Academy, where I'm a co-head of our Robotics Team and a News Editor for our school paper. 
-                I'm currently working with collaborators on an AI research project applying vanilla transformers (ViT style) to single-shot 3D neural field generation. Neural fields already have many applications, but I'm most excited about the promise they hold as more perfect representations of data, and what this means for AI as a whole. 
+                I'm currently working with collaborators on an AI research project applying vanilla transformers (Vision Transformer style) to single-shot 3D neural field generation. Neural fields already have many applications, but I'm most excited about the promise they hold as more perfect representations of data, and what this means for AI as a whole. 
                 <br/><br/>
                 I'm passionate about building software and hardware that matters. 
                 In the past, I've worked on a novel 3D printer (and its corresponding software) for automated part production (called "<a href="https://jryanshue.github.io/ZengerWriterV1/" style={{color:'rgb(214, 214, 214)'}}>The Zenger</a>"), with the purpose of making 3D printing viable for economic small-scale production. 
