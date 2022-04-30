@@ -14,7 +14,7 @@ function FrontMenubar() {
             onMouseHover={() => {document.getElementById('resume').style.color = '#ff0000'}}
             style={{cursor:'pointer', marginLeft:'10px', marginRight:'10px'}}
             >
-                Resume
+                Resume (likely outdated)
             </div>
         </div>
     )
