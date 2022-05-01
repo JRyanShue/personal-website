@@ -10,7 +10,7 @@ function FrontMenubar() {
             </div>
             <div 
             id="resume"
-            onClick={() => {window.open('https://s3.us-east-1.amazonaws.com/jryanshue.com/Resume.pdf?')}}
+            onClick={() => {window.open('https://s3.amazonaws.com/jryanshue.com/Resume.pdf')}}
             onMouseHover={() => {document.getElementById('resume').style.color = '#ff0000'}}
             style={{cursor:'pointer', marginLeft:'10px', marginRight:'10px'}}
             >
